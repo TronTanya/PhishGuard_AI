@@ -1,0 +1,28 @@
+[theme]
+base = "light"
+primaryColor = "#315EFB"
+backgroundColor = "#F7F8FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#202733"
+borderColor = "#E4E7EC"
+showWidgetBorder = true
+baseRadius = "small"
+buttonRadius = "small"
+font = "sans-serif"
+codeFont = "monospace"
+codeBackgroundColor = "#FFFFFF"
+linkColor = "#315EFB"
+orangeColor = "#B7791F"
+redColor = "#C43D3D"
+blueColor = "#315EFB"
+baseFontSize = 15
+
+[server]
+maxUploadSize = 1
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

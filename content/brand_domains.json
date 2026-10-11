@@ -1,0 +1,20 @@
+{
+  "note": "Иллюстративный, ограниченный список для учебной демонстрации. Требует регулярной проверки и обновления. Не является полным списком разрешённых доменов.",
+  "brands": [
+    {"name": "Сбербанк", "keywords": ["sberbank", "sber"], "official_domains": ["sberbank.ru", "sber.ru", "sberbank.com"]},
+    {"name": "Госуслуги", "keywords": ["gosuslugi"], "official_domains": ["gosuslugi.ru"]},
+    {"name": "Т-Банк", "keywords": ["tinkoff", "tbank"], "official_domains": ["tbank.ru", "tinkoff.ru"]},
+    {"name": "ВКонтакте", "keywords": ["vkontakte"], "official_domains": ["vk.com", "vk.ru", "vkontakte.ru"]},
+    {"name": "Яндекс", "keywords": ["yandex"], "official_domains": ["yandex.ru", "yandex.com", "yandex.net", "yandex.kz", "yandex.by", "ya.ru"]},
+    {"name": "Ozon", "keywords": ["ozon"], "official_domains": ["ozon.ru", "ozon.com"]},
+    {"name": "Wildberries", "keywords": ["wildberries"], "official_domains": ["wildberries.ru", "wb.ru"]},
+    {"name": "Почта России", "keywords": ["pochta"], "official_domains": ["pochta.ru"]},
+    {"name": "Telegram", "keywords": ["telegram"], "official_domains": ["telegram.org", "t.me", "telegram.me"]},
+    {"name": "Google", "keywords": ["google"], "official_domains": ["google.com", "google.ru", "googleusercontent.com", "gstatic.com"]},
+    {"name": "Microsoft", "keywords": ["microsoft", "office365"], "official_domains": ["microsoft.com", "live.com", "office.com", "microsoftonline.com", "outlook.com"]},
+    {"name": "Apple", "keywords": ["apple", "icloud"], "official_domains": ["apple.com", "icloud.com"]},
+    {"name": "PayPal", "keywords": ["paypal"], "official_domains": ["paypal.com"]},
+    {"name": "Amazon", "keywords": ["amazon"], "official_domains": ["amazon.com", "amazon.de", "amazon.co.uk"]},
+    {"name": "Steam", "keywords": ["steampowered", "steamcommunity"], "official_domains": ["steampowered.com", "steamcommunity.com"]}
+  ]
+}

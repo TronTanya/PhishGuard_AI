@@ -1,0 +1,20 @@
+{
+  "note": "Небольшой локальный список сервисов сокращения ссылок. Неполный; используется только как признак скрытого адреса назначения.",
+  "domains": [
+    "bit.ly",
+    "tinyurl.com",
+    "t.co",
+    "goo.gl",
+    "ow.ly",
+    "is.gd",
+    "buff.ly",
+    "cutt.ly",
+    "rebrand.ly",
+    "shorturl.at",
+    "rb.gy",
+    "clck.ru",
+    "vk.cc",
+    "tiny.cc",
+    "s.id"
+  ]
+}
